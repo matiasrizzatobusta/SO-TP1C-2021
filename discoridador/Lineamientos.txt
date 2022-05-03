@@ -1,0 +1,14 @@
+MODULO DISCORDIADOR:
+necesitamos un tripulante
+    el tripulante tiene:
+        nombre
+        patota
+        pos x e y
+        socket
+        controladorproge
+        conjuntoRegistros
+        pila
+
+poder atenderlos de forma paralela
+
+plantear 
